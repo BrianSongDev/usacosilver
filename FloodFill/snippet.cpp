@@ -1,3 +1,5 @@
+// USACO 1/2019 Silver #2 (Icy Perimeter)
+
 #include <iostream>
 #include <string>
 #include <vector>
