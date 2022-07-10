@@ -1,4 +1,4 @@
-// Jan 2018 #2 (Rental Service)
+// Jan 2018 #2 (Rental Service) (((8/10 AC, 1/10 WA, 1/10 MLE)))
 #include <iostream>
 #include <string>
 #include <vector>
